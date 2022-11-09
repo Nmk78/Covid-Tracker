@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Covid-Tracker/static/css/main.30f9494d.css",
+    "main.js": "/Covid-Tracker/static/js/main.9ba78373.js",
+    "static/media/virus.svg": "/Covid-Tracker/static/media/virus.1d47f2d26745ace2cda475604ddef9ab.svg",
+    "static/media/github.svg": "/Covid-Tracker/static/media/github.17dfaa5d2b90e7a6976913a86edd4e31.svg",
+    "static/media/coffin-cross.svg": "/Covid-Tracker/static/media/coffin-cross.67e07ee9b3465ee8b1ae18051f393191.svg",
+    "index.html": "/Covid-Tracker/index.html",
+    "static/media/bed.svg": "/Covid-Tracker/static/media/bed.2a71d15b2417eef0447d5f2ecaa9fb41.svg",
+    "static/media/plus-circle.svg": "/Covid-Tracker/static/media/plus-circle.cbb18d1f60f2e080b836026733447705.svg",
+    "static/media/search.svg": "/Covid-Tracker/static/media/search.2dbe13fdb3005d1cfeeaeab554dc66d4.svg",
+    "static/media/MyanmarFlag.svg": "/Covid-Tracker/static/media/MyanmarFlag.bef189504ea3cac269b4b893c31b25e0.svg",
+    "static/media/heart.svg": "/Covid-Tracker/static/media/heart.3b4010c94eb55db20490cae9bef04e4d.svg",
+    "main.30f9494d.css.map": "/Covid-Tracker/static/css/main.30f9494d.css.map",
+    "main.9ba78373.js.map": "/Covid-Tracker/static/js/main.9ba78373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f9494d.css",
+    "static/js/main.9ba78373.js"
+  ]
+}
